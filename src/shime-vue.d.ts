@@ -1,0 +1,5 @@
+declare module '@/core/router'
+declare module '@/core/tools'
+declare module '@/core/store'
+declare module '@/core/store/useMenuInfoStore'
+declare module '@/core/store/useMenuInfoStore'
